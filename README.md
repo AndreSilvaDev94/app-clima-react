@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌦️ ClimaFlow - Previsão Inteligente
 
-# Run and deploy your AI Studio app
+Uma aplicação web moderna e responsiva para consulta de previsão do tempo, desenvolvida com foco em UI/UX (Glassmorphism) e performance.
 
-This contains everything you need to run your app locally.
+O projeto consome a API da **Open-Meteo** para fornecer dados meteorológicos precisos sem necessidade de chaves de API.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Ci-_0CUzzn6O489xj6V9L0cZHFkPoJaI
+## ✨ Funcionalidades
 
-## Run Locally
+- 📍 **Geolocalização Automática:** Detecta a localização do usuário ao iniciar.
+- 🔎 **Busca por Cidade:** Pesquise o clima de qualquer lugar do mundo.
+- 🕒 **Previsão Hora a Hora:** Carrossel com a temperatura das próximas 24h.
+- 📅 **Previsão de 5 Dias:** Lista com máximas, mínimas e condições futuras.
+- 🎨 **Design Moderno:** Interface com efeito de vidro (Glassmorphism) e ícones dinâmicos.
+- 📱 **Totalmente Responsivo:** Funciona bem em celulares e computadores.
 
-**Prerequisites:**  Node.js
+## 🛠️ Tecnologias Utilizadas
 
+- **React** (Biblioteca de interface)
+- **TypeScript** (Segurança de tipagem)
+- **Vite** (Build tool ultra-rápida)
+- **Tailwind CSS** (Estilização e responsividade)
+- **Lucide React** (Ícones)
+- **Open-Meteo API** (Dados meteorológicos)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 Como rodar o projeto localmente
+
+1. Clone o projeto:
+```bash
+git clone [https://github.com/SEU_USUARIO/app-clima-react.git](https://github.com/SEU_USUARIO/app-clima-react.git)

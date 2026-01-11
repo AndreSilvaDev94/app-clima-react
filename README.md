@@ -22,8 +22,6 @@ O projeto consome a API da **Open-Meteo** para fornecer dados meteorológicos pr
 - **Lucide React** (Ícones)
 - **Open-Meteo API** (Dados meteorológicos)
 
-## 🚀 Como rodar o projeto localmente
+Desenvolvido com 💙 por André Luiz Silva
 
-1. Clone o projeto:
-```bash
-git clone [https://github.com/SEU_USUARIO/app-clima-react.git](https://github.com/SEU_USUARIO/app-clima-react.git)
+

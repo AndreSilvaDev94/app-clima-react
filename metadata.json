@@ -1,0 +1,6 @@
+
+{
+  "name": "ClimaFlow - Previsão Inteligente",
+  "description": "Uma aplicação de clima avançada que fornece previsões em tempo real, horárias e diárias pesquisando por cidade, utilizando a API Open-Meteo.",
+  "requestFramePermissions": []
+}
